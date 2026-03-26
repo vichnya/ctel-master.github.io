@@ -1,0 +1,4 @@
+baseURL = 'https://ctel-master.github.io/'
+locale = 'ru-ru'
+title = 'My New Hugo Project'
+theme = 'paper'
